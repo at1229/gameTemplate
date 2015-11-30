@@ -1,6 +1,6 @@
 body {
 
-	background-image: url("http://hdwallpaperia.com/wp-content/uploads/2013/11/Game-Backgrounds-Wallpaper.jpg");
+	background-image: url("https://3episodetest.files.wordpress.com/2014/12/mahouka-01.jpg");
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
@@ -16,7 +16,8 @@ body {
 
 .splashTitle {
 	color: #fff;
-    font-size: 8em;
+    font-size: 5em;
+    font-family:Ayuthaya;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
 }
