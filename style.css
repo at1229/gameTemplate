@@ -19,21 +19,23 @@ body {
     font-size: 5em;
     font-family:Ayuthaya;
     text-transform: uppercase;
-    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+    text-shadow: 5px 5px 8px rgba(27, 25, 25, 0.74);
 }
 
 .button {
 	border: 5px solid #383838;
-    color: #383838;
+    color: #00FF00;
     padding: 20px 50px;
     font-size: 5em;
     text-decoration: none;
-    background-color: #abc;
+    background-color: black;
     box-shadow: 15px 15px 80px #555;
+
 }
   a.button:hover {
-    background-color: #383838;
-    color: #abc;
+    background-color: #00FF00;
+    color: black;
+
   }
 
 
@@ -41,7 +43,7 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("img/exploreHome1.jpg");
+	background-image: url("http://pre01.deviantart.net/e10c/th/pre/f/2012/346/3/6/pokemon___battle_field_by_micha_by_xmichaxb7-d5nv6os.jpg");
 	background-position: bottom center;
 
 }
