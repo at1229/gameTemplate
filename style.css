@@ -130,6 +130,40 @@ body {
     display: none;
 }
 
+.practice {
+    text-transform: uppercase;
+    position: relative;
+    height:50px;
+    font-size:50px;
+    top:300px;
+    left:800px;
+    font-family:Ayuthaya;
+    color:white;
+    background-color: #22d65b;
+    width:300px;
+    text-align:center;
+    height:80px;
+    border-radius:10px;
+    padding-top:5px;
+}
+.boss {
+    position: relative;
+    left:150px;
+    top:200px;
+    text-transform: uppercase;
+    height:50px;
+    font-size:50px;
+    font-family:Ayuthaya;
+    color:white;
+    background-color: #22d65b;
+    width:300px;
+    text-align:center;
+    height:80px;
+    border-radius:10px;
+    padding-top:5px;
+
+}
+
 
 .hudBase {
     background-color: rgba(0,0,0,0.7);
