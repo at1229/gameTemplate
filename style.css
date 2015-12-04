@@ -135,7 +135,7 @@ body {
     position: relative;
     height:50px;
     font-size:50px;
-    top:300px;
+    top:270px;
     left:800px;
     font-family:Ayuthaya;
     color:white;
@@ -149,7 +149,7 @@ body {
 .boss {
     position: relative;
     left:150px;
-    top:200px;
+    top:180px;
     text-transform: uppercase;
     height:50px;
     font-size:50px;
